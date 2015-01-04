@@ -1,0 +1,11 @@
+{
+  "name" : "dwlichere_per",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "dependencies" : [dwpersonalities],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Activates the personality structure already present in the lichere race mod.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}
