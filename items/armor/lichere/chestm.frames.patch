@@ -1,0 +1,12 @@
+[
+  {
+  "op" : "add",
+  "path" : "/aliases/idle.6",
+  "value" : "chest.2"
+  },
+  {
+  "op" : "add",
+  "path" : "/aliases/idle.7",
+  "value" : "chest.2"
+  }
+]
