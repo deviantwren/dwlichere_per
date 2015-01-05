@@ -1,12 +1,17 @@
 [
   {
   "op" : "add",
+  "path" : "/frameList/chest.4",
+  "value" : [0, 285, 43, 301]
+  },
+  {
+  "op" : "add",
   "path" : "/aliases/idle.6",
-  "value" : "chest.2"
+  "value" : "chest.4"
   },
   {
   "op" : "add",
   "path" : "/aliases/idle.7",
-  "value" : "chest.2"
+  "value" : "chest.4"
   }
 ]
