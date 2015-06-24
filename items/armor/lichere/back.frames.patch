@@ -1,0 +1,22 @@
+[
+  {
+  "op" : "test",
+  "path" : "/frameGrid/names/0/9",
+  "value" : null
+  },
+  {
+  "op" : "test",
+  "path" : "/frameGrid/names/0/10",
+  "value" : null
+  },
+  {
+  "op" : "replace",
+  "path" : "/frameGrid/names/0/9",
+  "value" : "idle.6"
+  },
+  {
+  "op" : "replace",
+  "path" : "/frameGrid/names/0/10",
+  "value" : "idle.7"
+  }
+]
