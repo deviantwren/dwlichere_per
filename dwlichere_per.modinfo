@@ -1,6 +1,6 @@
 {
   "name" : "dwlichere_per",
-  "version" : "Beta v. Pleased Giraffe - Update 1",
+  "version" : "Beta v. Glad Giraffe - Update 3",
   "path" : ".",
   "requires" : [ "dwpersonalities", "dwlichere_race" ],
   "metadata": {
